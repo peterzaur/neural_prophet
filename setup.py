@@ -30,7 +30,7 @@ setuptools.setup(
         "live": ["livelossplot>=0.5.3"],
     },
     # setup_requires=[""],
-    scripts=["scripts/neuralprophet_dev_setup"],
+    scripts=[],
     long_description=readme,
     long_description_content_type="text/markdown",
     include_package_data=True,
